@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1013634446426",
+    "project_id": "simple-mood-tracker",
+    "storage_bucket": "simple-mood-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013634446426:android:3d1bae553e491a2ccd9463",
+        "android_client_info": {
+          "package_name": "com.evecorp.simplemoodtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013634446426-k9qlmc8kdf1p8opgi31404eg8qpmqono.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4-fRP7pXpv5D4q3SgS--Npys1wQtsea0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013634446426-k9qlmc8kdf1p8opgi31404eg8qpmqono.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
